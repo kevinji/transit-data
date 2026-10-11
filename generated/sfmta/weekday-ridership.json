@@ -1,0 +1,632 @@
+[
+  {
+    "year": 2016,
+    "month": 1,
+    "riders": 674590
+  },
+  {
+    "year": 2016,
+    "month": 2,
+    "riders": 712080
+  },
+  {
+    "year": 2016,
+    "month": 3,
+    "riders": 693670
+  },
+  {
+    "year": 2016,
+    "month": 4,
+    "riders": 704290
+  },
+  {
+    "year": 2016,
+    "month": 5,
+    "riders": 705210
+  },
+  {
+    "year": 2016,
+    "month": 6,
+    "riders": 689430
+  },
+  {
+    "year": 2016,
+    "month": 7,
+    "riders": 692240
+  },
+  {
+    "year": 2016,
+    "month": 8,
+    "riders": 717970
+  },
+  {
+    "year": 2016,
+    "month": 9,
+    "riders": 717060
+  },
+  {
+    "year": 2016,
+    "month": 10,
+    "riders": 713590
+  },
+  {
+    "year": 2016,
+    "month": 11,
+    "riders": 683790
+  },
+  {
+    "year": 2016,
+    "month": 12,
+    "riders": 647000
+  },
+  {
+    "year": 2017,
+    "month": 1,
+    "riders": 646290
+  },
+  {
+    "year": 2017,
+    "month": 2,
+    "riders": 684700
+  },
+  {
+    "year": 2017,
+    "month": 3,
+    "riders": 686070
+  },
+  {
+    "year": 2017,
+    "month": 4,
+    "riders": 699610
+  },
+  {
+    "year": 2017,
+    "month": 5,
+    "riders": 716350
+  },
+  {
+    "year": 2017,
+    "month": 6,
+    "riders": 701600
+  },
+  {
+    "year": 2017,
+    "month": 7,
+    "riders": 694740
+  },
+  {
+    "year": 2017,
+    "month": 8,
+    "riders": 721210
+  },
+  {
+    "year": 2017,
+    "month": 9,
+    "riders": 741600
+  },
+  {
+    "year": 2017,
+    "month": 10,
+    "riders": 733980
+  },
+  {
+    "year": 2017,
+    "month": 11,
+    "riders": 676430
+  },
+  {
+    "year": 2017,
+    "month": 12,
+    "riders": 669540
+  },
+  {
+    "year": 2018,
+    "month": 1,
+    "riders": 652560
+  },
+  {
+    "year": 2018,
+    "month": 2,
+    "riders": 706360
+  },
+  {
+    "year": 2018,
+    "month": 3,
+    "riders": 692020
+  },
+  {
+    "year": 2018,
+    "month": 4,
+    "riders": 715280
+  },
+  {
+    "year": 2018,
+    "month": 5,
+    "riders": 717560
+  },
+  {
+    "year": 2018,
+    "month": 6,
+    "riders": 707730
+  },
+  {
+    "year": 2018,
+    "month": 7,
+    "riders": 698660
+  },
+  {
+    "year": 2018,
+    "month": 8,
+    "riders": 718950
+  },
+  {
+    "year": 2018,
+    "month": 9,
+    "riders": 728850
+  },
+  {
+    "year": 2018,
+    "month": 10,
+    "riders": 730970
+  },
+  {
+    "year": 2018,
+    "month": 11,
+    "riders": 669290
+  },
+  {
+    "year": 2018,
+    "month": 12,
+    "riders": 667130
+  },
+  {
+    "year": 2019,
+    "month": 1,
+    "riders": 680460
+  },
+  {
+    "year": 2019,
+    "month": 2,
+    "riders": 703640
+  },
+  {
+    "year": 2019,
+    "month": 3,
+    "riders": 703030
+  },
+  {
+    "year": 2019,
+    "month": 4,
+    "riders": 716520
+  },
+  {
+    "year": 2019,
+    "month": 5,
+    "riders": 721540
+  },
+  {
+    "year": 2019,
+    "month": 6,
+    "riders": 709550
+  },
+  {
+    "year": 2019,
+    "month": 7,
+    "riders": 686060
+  },
+  {
+    "year": 2019,
+    "month": 8,
+    "riders": 686510
+  },
+  {
+    "year": 2019,
+    "month": 9,
+    "riders": 734430
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "riders": 733060
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "riders": 684250
+  },
+  {
+    "year": 2019,
+    "month": 12,
+    "riders": 647340
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "riders": 674310
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "riders": 713970
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "riders": 483810
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "riders": 91960
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "riders": 104910
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "riders": 130740
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "riders": 141660
+  },
+  {
+    "year": 2020,
+    "month": 8,
+    "riders": 143560
+  },
+  {
+    "year": 2020,
+    "month": 9,
+    "riders": 153460
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "riders": 163570
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "riders": 168670
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "riders": 157650
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "riders": 153390
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "riders": 175080
+  },
+  {
+    "year": 2021,
+    "month": 3,
+    "riders": 183940
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "riders": 194780
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "riders": 214070
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "riders": 227550
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "riders": 243140
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "riders": 266620
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "riders": 300530
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "riders": 294630
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "riders": 300290
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "riders": 277690
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "riders": 270450
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "riders": 294280
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "riders": 321100
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "riders": 339720
+  },
+  {
+    "year": 2022,
+    "month": 5,
+    "riders": 351250
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "riders": 342740
+  },
+  {
+    "year": 2022,
+    "month": 7,
+    "riders": 345180
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "riders": 376380
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "riders": 415070
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "riders": 414580
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "riders": 393710
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "riders": 369070
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "riders": 391590
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "riders": 426710
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "riders": 418080
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "riders": 452070
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "riders": 451320
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "riders": 432480
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "riders": 429940
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "riders": 462630
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "riders": 488160
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "riders": 485920
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "riders": 449930
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "riders": 432630
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "riders": 449260
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "riders": 478130
+  },
+  {
+    "year": 2024,
+    "month": 3,
+    "riders": 487040
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "riders": 479970
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "riders": 502910
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "riders": 470710
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "riders": 462550
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "riders": 486520
+  },
+  {
+    "year": 2024,
+    "month": 9,
+    "riders": 525140
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "riders": 528010
+  },
+  {
+    "year": 2024,
+    "month": 11,
+    "riders": 470740
+  },
+  {
+    "year": 2024,
+    "month": 12,
+    "riders": 460920
+  },
+  {
+    "year": 2025,
+    "month": 1,
+    "riders": 483390
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "riders": 492560
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "riders": 498710
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "riders": 511980
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "riders": 525210
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "riders": 485710
+  },
+  {
+    "year": 2025,
+    "month": 7,
+    "riders": 484710
+  },
+  {
+    "year": 2025,
+    "month": 8,
+    "riders": 513800
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "riders": 544510
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "riders": 540070
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "riders": 493840
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "riders": 464600
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "riders": 505670
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "riders": 511160
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "riders": 530360
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "riders": 527110
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "riders": 538310
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "riders": 516790
+  }
+]
