@@ -13,6 +13,7 @@ daily data) and are subject to the same terms as the data they are derived from.
 | `bart/` | [BART ridership reports](https://www.bart.gov/about/reports/ridership) | [Creative Commons Attribution License](https://opendefinition.org/licenses/cc-by/). The data has been modified. |
 | `sfmta/` | [SFMTA ridership dashboard](https://transtat.sfmta.com/t/public/views/Goal2Dashboards/RidershipTable) | No license specified. |
 | `mta/` | [MTA open data](https://www.mta.info/open-data) via [NY Open Data](https://data.ny.gov/) | [OPEN-NY Terms of Use](https://data.ny.gov/d/77gx-ii52) |
+| `wmata/` | [WMATA Metrorail ridership summary](https://www.wmata.com/about/open-data-hub/ridership-data/metrorail-ridership-summary.html) | No license specified. |
 
 The MTA data combines the daily ridership dataset
 ([MTA Daily Ridership and Traffic: Beginning 2020](https://data.ny.gov/d/sayj-mze2)) with the hourly
