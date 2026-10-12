@@ -1,5 +1,185 @@
 [
   {
+    "year": 2014,
+    "month": 2,
+    "riders": 5529916
+  },
+  {
+    "year": 2014,
+    "month": 3,
+    "riders": 5746562
+  },
+  {
+    "year": 2014,
+    "month": 4,
+    "riders": 5682139
+  },
+  {
+    "year": 2014,
+    "month": 5,
+    "riders": 5888502
+  },
+  {
+    "year": 2014,
+    "month": 6,
+    "riders": 5711211
+  },
+  {
+    "year": 2014,
+    "month": 7,
+    "riders": 5484820
+  },
+  {
+    "year": 2014,
+    "month": 8,
+    "riders": 5281025
+  },
+  {
+    "year": 2014,
+    "month": 9,
+    "riders": 5833719
+  },
+  {
+    "year": 2014,
+    "month": 10,
+    "riders": 5875931
+  },
+  {
+    "year": 2014,
+    "month": 11,
+    "riders": 5801248
+  },
+  {
+    "year": 2014,
+    "month": 12,
+    "riders": 5621845
+  },
+  {
+    "year": 2015,
+    "month": 1,
+    "riders": 5222843
+  },
+  {
+    "year": 2015,
+    "month": 2,
+    "riders": 5601138
+  },
+  {
+    "year": 2015,
+    "month": 3,
+    "riders": 5784353
+  },
+  {
+    "year": 2015,
+    "month": 4,
+    "riders": 5728600
+  },
+  {
+    "year": 2015,
+    "month": 5,
+    "riders": 5910106
+  },
+  {
+    "year": 2015,
+    "month": 6,
+    "riders": 5793316
+  },
+  {
+    "year": 2015,
+    "month": 7,
+    "riders": 5531693
+  },
+  {
+    "year": 2015,
+    "month": 8,
+    "riders": 5300720
+  },
+  {
+    "year": 2015,
+    "month": 9,
+    "riders": 5717525
+  },
+  {
+    "year": 2015,
+    "month": 10,
+    "riders": 6058200
+  },
+  {
+    "year": 2015,
+    "month": 11,
+    "riders": 5958138
+  },
+  {
+    "year": 2015,
+    "month": 12,
+    "riders": 5656693
+  },
+  {
+    "year": 2016,
+    "month": 1,
+    "riders": 5584421
+  },
+  {
+    "year": 2016,
+    "month": 2,
+    "riders": 5608332
+  },
+  {
+    "year": 2016,
+    "month": 3,
+    "riders": 5782580
+  },
+  {
+    "year": 2016,
+    "month": 4,
+    "riders": 5740390
+  },
+  {
+    "year": 2016,
+    "month": 5,
+    "riders": 5854302
+  },
+  {
+    "year": 2016,
+    "month": 6,
+    "riders": 5722582
+  },
+  {
+    "year": 2016,
+    "month": 7,
+    "riders": 5490971
+  },
+  {
+    "year": 2016,
+    "month": 8,
+    "riders": 5283968
+  },
+  {
+    "year": 2016,
+    "month": 9,
+    "riders": 5834092
+  },
+  {
+    "year": 2016,
+    "month": 10,
+    "riders": 5828309
+  },
+  {
+    "year": 2016,
+    "month": 11,
+    "riders": 5799325
+  },
+  {
+    "year": 2016,
+    "month": 12,
+    "riders": 5594469
+  },
+  {
+    "year": 2017,
+    "month": 1,
+    "riders": 5541869
+  },
+  {
     "year": 2017,
     "month": 2,
     "riders": 5531002

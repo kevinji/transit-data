@@ -19,4 +19,8 @@ The MTA data combines the daily ridership dataset
 ([MTA Daily Ridership and Traffic: Beginning 2020](https://data.ny.gov/d/sayj-mze2)) with the hourly
 station-level datasets
 ([MTA Subway Hourly Ridership: 2017-2019](https://data.ny.gov/d/t69i-h2me),
-[2020-2024](https://data.ny.gov/d/wujg-7c2s)) for days before March 2020.
+[2020-2024](https://data.ny.gov/d/wujg-7c2s)) for days before March 2020. Days before February
+2017 are estimated from turnstile entry counters
+([MTA Subway Turnstile Usage Data: 2014](https://data.ny.gov/d/i55r-43gk),
+[2015](https://data.ny.gov/d/ug6q-shqc), [2016](https://data.ny.gov/d/ekwu-khcy),
+[2017](https://data.ny.gov/d/v5y5-mwpb)).
