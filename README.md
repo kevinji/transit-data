@@ -23,7 +23,7 @@ station-level or daily data) and are subject to the same terms as the data they 
 | `sfmta/` | [SFMTA ridership dashboard](https://transtat.sfmta.com/t/public/views/Goal2Dashboards/RidershipTable) | No license specified. |
 | `mta/` | [MTA open data](https://www.mta.info/open-data) via [NY Open Data](https://data.ny.gov/) | [OPEN-NY Terms of Use](https://data.ny.gov/d/77gx-ii52) |
 | `wmata/` | [WMATA Metrorail ridership summary](https://www.wmata.com/about/open-data-hub/ridership-data/metrorail-ridership-summary.html) | No license specified. |
-| `sound-transit/` | [Sound Transit ridership tracker](https://www.soundtransit.org/ride-with-us/system-performance-tracker/ridership) | No license specified. |
+| `sound-transit/` | [Sound Transit ridership tracker](https://www.soundtransit.org/ride-with-us/system-performance-tracker/ridership) and [ridership reports](https://www.soundtransit.org/get-to-know-us/documents-reports/service-planning-ridership) | No license specified. |
 
 The MTA data combines the daily ridership dataset
 ([MTA Daily Ridership and Traffic: Beginning 2020](https://data.ny.gov/d/sayj-mze2)) with the hourly
@@ -37,4 +37,9 @@ station-level datasets
 the daily entries estimated from them are saved, in `processed/mta/`.
 
 The Sound Transit data is queried from the Power BI report behind the ridership tracker. It covers
-all Sound Transit modes from 2019, and only Link light rail is charted.
+all Sound Transit modes from 2019, and only Link light rail is charted. Link ridership before 2019
+comes from Sound Transit's
+[monthly service performance reports](https://www.soundtransit.org/get-to-know-us/documents-reports/service-planning-ridership)
+from September 2012 to January 2019. Each report also lists the same month of the prior year, which
+covers September 2011 onward. Reports call their figures preliminary, so each month uses the figure
+from the latest report that lists it.
