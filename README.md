@@ -1,6 +1,11 @@
 # transit-data
 Raw transit data files and generated Vega-Lite JSON files parsed from the raw files.
 
+## Related repositories
+
+- [transit-charts](https://github.com/kevinji/transit-charts): The [transitcharts.com](https://transitcharts.com) website, which charts the generated data.
+- [transit-parser](https://github.com/kevinji/transit-parser): Scripts that download ridership data from transit agencies and generate the data for the charts.
+
 ## Sources and licenses
 
 The data in this repository is not covered by a single license. Files in `original/` are
