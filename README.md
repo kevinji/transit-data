@@ -33,8 +33,14 @@ station-level datasets
 2017 are estimated from turnstile entry counters
 ([MTA Subway Turnstile Usage Data: 2014](https://data.ny.gov/d/i55r-43gk),
 [2015](https://data.ny.gov/d/ug6q-shqc), [2016](https://data.ny.gov/d/ekwu-khcy),
-[2017](https://data.ny.gov/d/v5y5-mwpb)). The turnstile readings are too large to keep, so only
-the daily entries estimated from them are saved, in `processed/mta/`.
+[2017](https://data.ny.gov/d/v5y5-mwpb)). Days before February 2014 are estimated the same way
+from the weekly turnstile files the MTA used to publish at
+`http://web.mta.info/developers/turnstile.html`, which are now only available from the
+[Internet Archive](https://web.archive.org/web/2014/http://web.mta.info/developers/turnstile.html).
+The earliest archived file starts on April 17, 2010, too late in the month to average April, and
+none of them have readings for May 15 to 21, 2010. Their estimates are within about 1% of the 2014
+dataset for February 2014. The turnstile readings are too large to keep, so only the daily entries
+estimated from them are saved, in `processed/mta/`.
 
 The Sound Transit data is queried from the Power BI report behind the ridership tracker. It covers
 all Sound Transit modes from 2019, and only Link light rail is charted. Link ridership before 2019
